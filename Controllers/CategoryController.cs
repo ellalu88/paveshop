@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace Paveshop.Controllers
 {
+    [Authorize(Roles = WC.AdminRole)]
     public class CategoryController : Controller
     {
         private readonly ApplicationDbContext _db;

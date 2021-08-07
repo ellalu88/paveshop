@@ -208,3 +208,7 @@ D:\project\Paveshop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScrip
 D:\project\Paveshop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 D:\project\Paveshop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 D:\project\Paveshop\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\project\Paveshop\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+D:\project\Paveshop\bin\Debug\net5.0\Mailjet.Client.dll
+D:\project\Paveshop\obj\Debug\net5.0\Razor\Views\Cart\Summary.cshtml.g.cs
+D:\project\Paveshop\obj\Debug\net5.0\Razor\Views\Cart\InquiryConfirmation.cshtml.g.cs
