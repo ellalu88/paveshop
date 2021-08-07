@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paveshop", "..\Paveshop\Paveshop.csproj", "{1F6A92EE-5676-4104-83BA-DBD0FDEC4856}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F6A92EE-5676-4104-83BA-DBD0FDEC4856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6A92EE-5676-4104-83BA-DBD0FDEC4856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6A92EE-5676-4104-83BA-DBD0FDEC4856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6A92EE-5676-4104-83BA-DBD0FDEC4856}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57042DC0-E018-4E3A-A258-AFC8DD7FD1EC}
+	EndGlobalSection
+EndGlobal
